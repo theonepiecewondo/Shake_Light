@@ -1,0 +1,7 @@
+{
+  "name": "Shake_Light",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
